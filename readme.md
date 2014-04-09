@@ -1,4 +1,4 @@
-Top left image can be found in <b>"newsletterTopImage.psd"</b> file.
+Top left image can be found in <b>"newsletterTopImage.psd"</b> file. After making changes please save it to /Pictures/ as ida_top_image_left_332x164.png
 <br><br>
 All the text for the stories is in text.html file.
 The div id values must mach the following:
