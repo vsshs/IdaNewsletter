@@ -6,7 +6,7 @@ Start is "v-text-item-" and the number is taken form the  data-text-id field spe
 
 
 Example of news item thingy:
-
+<code>
 <div id="v-news-item-6" class="v-news-items" data-text-id="6"> 
    <div class="v-news-items-name">
        NAME OF THE NEWS ITEM GOES HERE
@@ -15,4 +15,5 @@ Example of news item thingy:
        SHORT EXPLANATION GOES HERE (this div can be removed if needed)
    </div>
 </div>
+</code>
 
